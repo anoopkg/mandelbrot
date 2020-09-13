@@ -16,3 +16,5 @@ fn escape_time(c: Complex<f64>, limit: u32) -> Option<u32> {
     }
     None
 }
+
+fn main() {}
